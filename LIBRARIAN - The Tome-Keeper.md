@@ -1,0 +1,3 @@
+#lore
+
+[[My Character]]
