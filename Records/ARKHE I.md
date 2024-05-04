@@ -1,4 +1,4 @@
-_And there were Seven to the Pact, and the number of the Pact was Seven._
+p_And there were Seven to the Pact, and the number of the Pact was Seven._
 
 -----
 ## _Primo Mense_
