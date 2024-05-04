@@ -1,4 +1,4 @@
-p_And there were Seven to the Pact, and the number of the Pact was Seven._
+_And there were Seven to the Pact, and the number of the Pact was Seven._
 
 -----
 ## _Primo Mense_
@@ -31,7 +31,7 @@ p_And there were Seven to the Pact, and the number of the Pact was Seven._
 The text is easy to read for those who speak its language, and is clear in its meaning.
 
 
-## A Water-Sign Gazing-Upon-Crown
+## A Water-Sign Gazing-Upon-The-Crowned
 **Caster:** THE SORCERER
 **Force:** Water III
 **Scale:** Arcane

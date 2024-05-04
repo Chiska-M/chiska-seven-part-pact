@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Character.md",
+                "file": "Verbossifications.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf4b04751ee7d4fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIBRARIAN - The Tome-Keeper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a821b9ee3df32a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sollex Pseudo-Dwermotniaed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29e05f161fbc1451",
@@ -99,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Records/ARKHE I.md",
+                "file": "Verbossifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Records/ARKHE I.md",
+                "file": "Verbossifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Records/ARKHE I.md"
+                "file": "Verbossifications.md"
               }
             }
           }
@@ -160,8 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35bd827299005a73",
+  "active": "4a72436f850f3756",
   "lastOpenFiles": [
+    "files/lu5252dxmw.tmp",
+    "files/lu5252dxmu.tmp",
+    "WARLOCK - The Throne-Keeper.md",
+    "Sollex Pseudo-Dwermotniaed.md",
+    "Records/ARKHE I.md",
+    "LIBRARIAN - The Tome-Keeper.md",
+    "Verbossifications.md",
+    "FAUSTIAN - The Chain-Keeper.md",
+    "HIEROPHANT - The Flame-Keeper.md",
+    "MARINER - The Sea-Keeper.md",
+    "NECROMANCER - The Gate-Keeper.md",
+    "SORCERER - The Star-Keeper.md",
+    "THE PACT.md",
     "files/lu119584jex9.tmp",
     "files/Grimoire.docx",
     "files/Copy of Grimoire.docx",
@@ -171,18 +206,6 @@
     "files/lu119584jenm.tmp",
     "files/lu119584jenk.tmp",
     "files/lu119584jen8.tmp",
-    "files/lu119584jen6.tmp",
-    "files/lu119584jen4.tmp",
-    "My Character.md",
-    "Records/ARKHE I.md",
-    "LIBRARIAN - The Tome-Keeper.md",
-    "THE PACT.md",
-    "HIEROPHANT - The Flame-Keeper.md",
-    "NECROMANCER - The Gate-Keeper.md",
-    "HIERIOPHANT - The Flame-Keeper.md",
-    "WARLOCK - The Throne-Keeper.md",
-    "MARINER - The Sea-Keeper.md",
-    "FAUSTIAN - The Chain-Keeper.md",
-    "SORCERER - The Star-Keeper.md"
+    "HIERIOPHANT - The Flame-Keeper.md"
   ]
 }
