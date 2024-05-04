@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verbossifications.md",
+                "file": "Records/ARKHE I.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29e05f161fbc1451",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verbossifications.md",
+                "file": "Records/ARKHE I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verbossifications.md",
+                "file": "Records/ARKHE I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verbossifications.md"
+                "file": "Records/ARKHE I.md"
               }
             }
           }
@@ -184,14 +185,17 @@
   },
   "active": "4a72436f850f3756",
   "lastOpenFiles": [
+    "files/lu5252dxn2.tmp",
+    "files/lu5252dxn0.tmp",
+    "files/lu5252dxmy.tmp",
+    "FAUSTIAN - The Chain-Keeper.md",
+    "Records/ARKHE I.md",
+    "Verbossifications.md",
     "files/lu5252dxmw.tmp",
     "files/lu5252dxmu.tmp",
     "WARLOCK - The Throne-Keeper.md",
     "Sollex Pseudo-Dwermotniaed.md",
-    "Records/ARKHE I.md",
     "LIBRARIAN - The Tome-Keeper.md",
-    "Verbossifications.md",
-    "FAUSTIAN - The Chain-Keeper.md",
     "HIEROPHANT - The Flame-Keeper.md",
     "MARINER - The Sea-Keeper.md",
     "NECROMANCER - The Gate-Keeper.md",
@@ -203,9 +207,6 @@
     "files/lu119584jevl.tmp",
     "files/lu119584jevj.tmp",
     "files/lu119584jevh.tmp",
-    "files/lu119584jenm.tmp",
-    "files/lu119584jenk.tmp",
-    "files/lu119584jen8.tmp",
     "HIERIOPHANT - The Flame-Keeper.md"
   ]
 }

@@ -17,7 +17,11 @@
 	- Botherfull Sky-tangle
 - (Magic)
 	- Enchansimilitude 
-
+	- Wizarticulatory Mumblather
+	- Medlacerated the Azu
+- (The Library)
+	- The Atheneum
+	- Scholarticulation and Edifacultry Elevatement 
 
 ### Old
 - verministrate

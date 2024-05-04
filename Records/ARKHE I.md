@@ -2,16 +2,24 @@ _And there were Seven to the Pact, and the number of the Pact was Seven._
 
 -----
 ## _Primo Mense_
+- [Air](https://en.wikipedia.org/wiki/Air_(classical_element) "Air (classical element)") 🜁 ([![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alchemical_air_symbol_%28fixed_width%29.svg/24px-Alchemical_air_symbol_%28fixed_width%29.svg.png)](https://en.wikipedia.org/wiki/File:Alchemical_air_symbol_(fixed_width).svg))
+- [Earth](https://en.wikipedia.org/wiki/Earth_(classical_element) "Earth (classical element)") 🜃 ([![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alchemical_earth_symbol_%28fixed_width%29.svg/24px-Alchemical_earth_symbol_%28fixed_width%29.svg.png)](https://en.wikipedia.org/wiki/File:Alchemical_earth_symbol_(fixed_width).svg))
+- [Fire](https://en.wikipedia.org/wiki/Fire_(classical_element) "Fire (classical element)") 🜂 ([![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alchemical_fire_symbol_%28fixed_width%29.svg/24px-Alchemical_fire_symbol_%28fixed_width%29.svg.png)](https://en.wikipedia.org/wiki/File:Alchemical_fire_symbol_(fixed_width).svg))
+- [Water](https://en.wikipedia.org/wiki/Water_(classical_element) "Water (classical element)") 🜄 ([![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alchemical_water_symbol_%28fixed_width%29.svg/24px-Alchemical_water_symbol_%28fixed_width%29.svg.png)](https://en.wikipedia.org/wiki/File:Alchemical_water_symbol_(fixed_width).svg))
+
 
 #### Spell: Sundering of the Blue Gate
+**Caster:** THE NECROMANCER
 - Ooops, the Blue Gate is now the Invisible Gate
 #### Spell: Weaving of the Tempest
+**Caster:** THE MARINER
 **Signs**: Mercury, Mercury, Luna, Neptune
 **Force:** Air
 **Scale:** Mighty
 - In response to two tempests ravaging the seas north of the orrey, THE MARINER cast a mighty **Mastery of the Major Winds**; rousing a grand wind to carry away these storms. In the course of this, the tempest carried in items from the west and carried people to the far east - replacing missing persons with strange and magical treasures. 
 
 #### Spell: The Flockening
+**Caster:** THE FAUSTIAN
 **Signs:** Jupiter, Jupiter, Jupiter 
 **Force:** Earth
 **Scale**: Arcane
